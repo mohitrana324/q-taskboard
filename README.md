@@ -21,7 +21,7 @@ docker-compose exec backend python manage.py seed
 docker-compose exec backend python -m pytest          # Django tests
 docker-compose exec frontend npm test                 # React tests
 
-# The app is now running at http://localhost:3000
+# The app is now running at http://localhost:3002
 # Backend API at http://localhost:8000
 ```
 

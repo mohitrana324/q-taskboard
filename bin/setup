@@ -47,6 +47,6 @@ start frontend:  cd frontend && npm run dev
 
 or use Docker:   docker-compose up --build
 
-then visit http://localhost:3000
+then visit http://localhost:3002
 
 EOF
